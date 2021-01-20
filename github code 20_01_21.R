@@ -168,8 +168,6 @@ if(T){
   
 }
 
-
-
 #extract ego graph of phenotypic variables
 if(T){
   
@@ -294,7 +292,3 @@ if(T){
               row.names = F)
 }
 
-
-
-#save.image("mirna_rf_network.RData")
-#load("mirna_rf_network.RData")
